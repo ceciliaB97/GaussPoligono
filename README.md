@@ -6,7 +6,9 @@ Este software es de uso didáctico y educacional.
 Intrucciones
 
 1.Ingresar coordenadas de X
+
 2.Ingresar coordenadas de Y
+
 3.Utilizar botón "Calcular"
 
 Posibles implementaciones futuras, imrpimir un mensaje en pantalla con los valores correspondientes en la fórmula de Gauss
