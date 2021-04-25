@@ -12,7 +12,7 @@ import javax.swing.JTextField;
 public class Datos {
 
 	/**
-	 * Atributos de Datos
+	 * Atributos de Datos - privados
 	 */
 	private static String coordsX;
 	private static String coordsY;
